@@ -1,7 +1,7 @@
 # Avinash Kaul's Resume
 
 # About me: 
-  I am passionate developer, polyglot programmer. Love to solve problems.
+  I am a passionate developer, polyglot programmer who loves to solve problems.
   I live by motto "Live and Learn"
   
 ## Contact details:
