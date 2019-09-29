@@ -11,7 +11,7 @@ Worked as:
   Worked on development and maintenance of REST API as well as UI.
 
   - Framework : Spring, Struts.
-  - Technolgoies : Java, Javascript, Servlet, JSP, JSF.
+  - Technologies : Java, Javascript, Servlet, JSP, JSF.
 
 - Business Object's Web intelligence JS plugin:
   Worked on building new features and maintenance.
@@ -25,10 +25,10 @@ Worked as:
 
 - Worked on maintenance of Translation Manager:
 
-  - Tech: Java RCP
+  - Technology: Java RCP
 
 - Worked on maintenance of Webi Report Engine:
-  - Technolgy: C++
+  - Technology: C++
 
 ## SAP Fellowship
 
