@@ -1,5 +1,9 @@
 # Avinash Kaul's Resume
 
+# About me: 
+  I am passionate developer, polyglot programmer. Love to solve problems.
+  I live by motto "Live and Learn"
+  
 ## Contact details:
 
 - Email: avinashkaul.0191@gmail.com
