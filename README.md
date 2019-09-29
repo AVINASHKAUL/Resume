@@ -69,7 +69,7 @@ Hands-on experience with:
 
 ## Work History
 
-You can read more about the latest projects I worked for different companies by navigating to the [Projects](Projects/README.md) folder.
+Read about [Projects](Projects/README.md) I have worked on.
 
 ## Testimonials
 
