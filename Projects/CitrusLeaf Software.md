@@ -1,6 +1,6 @@
 # CitrusLeaf Software
 
-[website](https://citrusleaf.in/)
+[About CitrusLeaf](https://citrusleaf.in/)
 
 Worked as:
 
@@ -8,6 +8,7 @@ Worked as:
 
 ## Responsibilities
 
+- Technical Architecture
 - Team management.
 - Communicating with stakeholders.
 - Team building and hiring
