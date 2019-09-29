@@ -4,7 +4,7 @@ Worked as:
 
 - July 2017 - Nov 2018 : **Partner and Lead Developer**
 
-##Responsibilities
+## Responsibilities
 
 - Team management.
 - Communicating with stakeholders.
@@ -14,7 +14,7 @@ Worked as:
 - Help customer in Data analytics.
 - Product Design
 
-##Projects
+## Projects
 
 - DealsApp iOS Native application:
   DealsApp helps you find the best deals around you.
