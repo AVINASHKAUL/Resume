@@ -21,7 +21,7 @@ Worked as:
 
 - Floh Backend
 
-  - Technologies : Ruby on Rails
+  - Technologies : Java, Ruby on Rails
   - DB: PostgresSQL
   - Deployment: Heroku
 
