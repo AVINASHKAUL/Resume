@@ -11,8 +11,9 @@
 - LinkedIn: [Avinash Kaul](https://www.linkedin.com/in/avinash-kaul-57ab9876/)
 
 ## Work History:
-
-- Lead Engineer : Floh (Dec 2018 - Present)
+- Senior Software Engineer : Unacademy (September 2020 - Present)
+- Mobile lead : Floh (June 2020 - September 2020)
+- Lead Engineer : Floh (Dec 2018 - March 2020)
 - Partner and Lead Developer : CitrusLeaf Software (July 2017 - Nov 2018)
 - Software Developer: SAP Labs India (July 2013 - June 2017)
 
