@@ -12,7 +12,7 @@
 
 ## Work History:
 
-- Software Engineer : Floh (Dec 2018 - Present)
+- Lead Engineer : Floh (Dec 2018 - Present)
 - Partner and Lead Developer : CitrusLeaf Software (July 2017 - Nov 2018)
 - Software Developer: SAP Labs India (July 2013 - June 2017)
 
